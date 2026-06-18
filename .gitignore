@@ -1,0 +1,15 @@
+# Archivos que Mac crea automáticamente
+.DS_Store
+.DS_Store?
+._*
+
+# Variables de entorno y credenciales (contraseñas, API keys)
+.env
+.env.local
+
+# Dependencias (si usas Node en el futuro)
+node_modules/
+
+# Carpetas que generan los editores
+.cursor/
+.vscode/
